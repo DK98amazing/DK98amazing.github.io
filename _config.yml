@@ -7,7 +7,7 @@
 
 # Site settings
 title:  Amazing博客
-subtitle: 分享技术，品味人生
+subtitle: 技术积累与分享
 name: Amazing 
 email: 1254770191@qq.com
 description: 本站是Amazing的技术分享博客。内容涵盖Java后端技术、Spring Boot、Spring Cloud、微服务架构、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
@@ -15,7 +15,6 @@ keywords: 技术积累与分享
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/DK98amazing.github.io
 github_url: https://github.com/DK98amazing
 url: http://www.DK98amazing.com
 enforce_ssl: DK98amazing.com
