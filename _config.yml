@@ -71,12 +71,6 @@ navs:
     target: _self
 
   -
-    
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-
-  -
     href: /archives.html
     label: Archives
     target: _self
@@ -87,18 +81,8 @@ labels:
 
   -
     href: /payment.html
-    label: 支付     
+    label: technology stack     
     target: _self
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
 
   -
     href: /open-source.html
