@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布
+title: Spring Boot 2(一)：【重磅】Spring Boot 2.0新特性
 category: springboot
 tags: [springboot]
-excerpt: 有哪些新特性值得我们关注
+excerpt: Spring Boot 2.0新特性
 keywords: Spring Boot,Spring Boot2.0,发布,Spring Boot 2.0新特性
 ---
 

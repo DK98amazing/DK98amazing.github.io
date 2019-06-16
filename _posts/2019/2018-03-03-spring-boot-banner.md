@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Spring Boot 2 (二)：Spring Boot 2 尝鲜-动态 Banner
+title: Spring Boot 2 (二)：Spring Boot 2 动态 Banner
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,Banner
 ---
 
-Spring Boot 2.0 提供了很多新特性，其中就有一个小彩蛋：动态 Banner，今天我们就先拿这个来尝尝鲜。
+Spring Boot 2 动态 Banner
 
 ## 配置依赖
 
