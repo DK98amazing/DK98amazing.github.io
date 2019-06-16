@@ -80,9 +80,9 @@ navs:
 labels:
 
   -
-    href: /payment.html
+    href: /technology.html
     label: technology stack     
-    target: _self
+    target: _blank
 
   -
     href: /open-source.html

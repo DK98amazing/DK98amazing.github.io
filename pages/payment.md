@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 支付系列文章
-titlebar: payment
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 支付、第三方支付系列文章
-menu: payment
+titlebar: technology_stack
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 技术栈文章
+menu: technology_stack
 css: ['blog-page.css']
-permalink: /payment
+permalink: /technology_stack
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /payment
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='payment'  or post.keywords contains '支付' %}
+                {% if post.category=='technology_stack'  or post.keywords contains '支付' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
