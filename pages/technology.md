@@ -6,6 +6,7 @@ subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 技术�
 menu: technology
 css: ['blog-page.css']
 permalink: /technology
+keywords: Linux,Maven
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /technology
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='technology'  or post.keywords contains '支付' %}
+                {% if post.category=='technology'  or post.keywords contains 'Maven' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
