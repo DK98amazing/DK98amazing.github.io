@@ -3,7 +3,6 @@ layout: post
 title: Linux：Linux学习
 category: Linux
 tags: [Linux]
-excerpt: Linux
 keywords: Linux
 ---
 
