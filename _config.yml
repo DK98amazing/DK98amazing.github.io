@@ -53,41 +53,6 @@ syntax_highlighter_opts:
 paginate: 12
 paginate_path: 'page:num'
 
-# Navigation. top menu list
-menus:
-
-  -
-    href: /zsxq.html
-    label: 星球
-    target: _self
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _self
-
-  -
-    href: http://gk.link/a/103Gb
-    label: 极客
-    target: _blank
-
-  -
-    href: /life.html
-    label: 故事
-    target: _self
-
-  -
-    href: /arch.html
-    label: 架构
-    target: _self
-
-  -
-    href: /link.html
-    label: 友链
-    target: _self
-
-
-
 # Navigation. main menu list
 navs:
 
@@ -172,17 +137,6 @@ labels:
 
 # selected articles
 classes:
-
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
-
-  -
-    href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
-
   -
     href: /java.html
     name: Java 系列文章
@@ -220,17 +174,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: DK98amazing
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: DK98amazing
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: DK98amazing
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
